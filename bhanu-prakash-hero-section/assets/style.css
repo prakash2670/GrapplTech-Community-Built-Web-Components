@@ -677,7 +677,7 @@ input {
   color: var(--text-color);
 }
 
-/*=============== SPONSORS ===============*/
+/*=============== SPONSORS BLOCK===============*/
 .sponsor__container {
   grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
   justify-items: center;
@@ -694,7 +694,7 @@ input {
   transition: var(--img-transition);
 }
 
-/*=============== FOOTER ===============*/
+/*=============== FOOTER Section===============*/
 .footer__container {
   row-gap: 5rem;
 }
@@ -761,7 +761,7 @@ input {
   color: var(--text-color);
 }
 
-/*========== SCROLL UP ==========*/
+/*========== SCROLL UP Button==========*/
 .scrollup {
   position: fixed;
   right: 1rem;
